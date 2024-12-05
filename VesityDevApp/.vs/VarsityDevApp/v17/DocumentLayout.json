@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B7CF1C-BB80-448C-BEDE-83167BB02503}|..\\TestProject\\TestProject.csproj|c:\\users\\vivia\\source\\repos\\gitpod\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0B7CF1C-BB80-448C-BEDE-83167BB02503}|..\\TestProject\\TestProject.csproj|c:\\users\\vivia\\source\\repos\\gitpod\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\varsitydevapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|solutionrelative:varsitydevapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VesityDevApp.csproj|C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VesityDevApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\varsitydevapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B9BCF26-B029-40DB-9749-4932A5566AD7}|VarsityDevApp.csproj|solutionrelative:varsitydevapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VarsityDevApp.http",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\VarsityDevApp.http",
+              "RelativeDocumentMoniker": "VarsityDevApp.http",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\VarsityDevApp.http",
+              "RelativeToolTip": "VarsityDevApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-05T17:27:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T17:26:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "..\\TestProject\\TestProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T17:24:01.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:23:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VarsityDevApp.csproj",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\VarsityDevApp.csproj",
+              "RelativeDocumentMoniker": "VarsityDevApp.csproj",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\VarsityDevApp.csproj",
+              "RelativeToolTip": "VarsityDevApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T17:22:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vivia\\source\\repos\\Gitpod\\VesityDevApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:22:24.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

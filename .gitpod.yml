@@ -1,0 +1,18 @@
+tasks:
+  - init: |
+      sudo apt-get update
+      sudo apt-get install -y dotnet-sdk-8.0
+      dotnet restore
+  - command: |
+      dotnet build
+      dotnet test
+
+ports:
+  - port: 7025 # Swagger or Web API endpoint
+    onOpen: open-preview
+  - port: 5025 # Secure HTTPS port if needed
+    onOpen: ignore
+
+vscode:
+  extensions:
+    - ms-dotnettools.csharp
